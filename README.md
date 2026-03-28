@@ -125,7 +125,7 @@ This project was completed as part of the **Google Data Analytics Professional C
 
 ## 👤 About Me
 
-I am a 19-year-old pharmacy student and practicing pharmacist from Ganja, Azerbaijan, currently expanding into data analytics. This project demonstrates my ability to work with real-world datasets using industry-standard tools.
+I am a 20-year-old pharmacy student and practicing pharmacist from Ganja, Azerbaijan, currently expanding into data analytics. This project demonstrates my ability to work with real-world datasets using industry-standard tools.
 
 ---
 https://www.linkedin.com/in/said-gurbanov-4a77763b8/
